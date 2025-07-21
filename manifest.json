@@ -1,9 +1,0 @@
-{
-  "name": "Pymsyn Chat",
-  "short_name": "Pymsyn",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#007bff",
-  "icons": []
-}
